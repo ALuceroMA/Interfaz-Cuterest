@@ -6,7 +6,7 @@ Se enfoca en replicar la apariencia visual de pinterest ofreciendo una experienc
 ### Caracteristicas 
 - Diseño Resposive: Adaptable a diferentes tamaños de pantalla para una experiencia de usuario optima en dispotivos y en escritorio.
 - Interfaz de usuario intuitiva: Inspirada en pinterest con una navegación fácil y accesible.
-- Interacciones Dinámicas: Efectos visuales para elementos interactivos como botones y enlaces.👽🤓
+- Interacciones Dinámicas: Efectos visuales para elementos interactivos como botones y enlaces.
 - Iconografía y Estilos Modernos: Uso de la biblioteca de íconos de Material Design y estilos CSS modernos.
 
 ### Tecnologías Utilizadas
@@ -15,7 +15,8 @@ Se enfoca en replicar la apariencia visual de pinterest ofreciendo una experienc
 + **Google Fonts:** Para fuentes personalizadas.
 
 ### Vista Previa del Proyecto
-----Pendiente-----
+![Demo](imagenes/cuterest_ss)
 
 ### Contacto
 Si te gustaría invitarme a colaborar en un proyecto, escríbeme por correo: lucero.moreno112@gmail.com o por [LinkedIn](www.linkedin.com/in/lucero-moreno-86b3791aa).
+
