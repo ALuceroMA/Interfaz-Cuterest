@@ -15,7 +15,7 @@ Se enfoca en replicar la apariencia visual de pinterest ofreciendo una experienc
 + **Google Fonts:** Para fuentes personalizadas.
 
 ### Vista Previa del Proyecto
-![Demo](imagenes/cuterest_ss)
+![Demo](imagenes/cuterest_ss.jpg)
 
 ### Contacto
 Si te gustaría invitarme a colaborar en un proyecto, escríbeme por correo: lucero.moreno112@gmail.com o por [LinkedIn](www.linkedin.com/in/lucero-moreno-86b3791aa).
